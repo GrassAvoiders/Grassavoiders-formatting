@@ -10,7 +10,7 @@
     {
       "type": "regex",
       "trigger": "^Warped out (.+)\\.$",
-      "finalFormat": "&a(Bot) Warped out $1.",
+      "finalFormat": "&aWarped out $1 Successfully.",
       "groupFormatting": {}
     },
     {
